@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/middlewares/error.ts","./src/scripts/fine-tune.ts","./src/scripts/scrapper.ts","./src/utils/apperror.ts"],"version":"6.0.3"}
